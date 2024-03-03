@@ -22,4 +22,4 @@ Bu proje, Deneyap kart ve Deneyap OLED Ekran kullanılarak oluşturulmuş bir ak
 
 ## Bağlantılar
 
-- [Deneyap Kart](https://deneyapkart.com/)
+- [Deneyap Kart](https://deneyapkart.org/)
